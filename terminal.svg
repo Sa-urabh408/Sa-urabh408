@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="380" viewBox="0 0 680 380">
+  <defs>
+    <style>
+      .bg { fill: #1a1b27; rx: 10; }
+      .titlebar { fill: #2a2b3d; }
+      .dot-r { fill: #ff5f57; }
+      .dot-y { fill: #ffbd2e; }
+      .dot-g { fill: #28c840; }
+      .title-text { fill: #8b8fa8; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; }
+      .prompt { fill: #a9b1d6; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12.5px; }
+      .cmd { fill: #7aa2f7; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12.5px; }
+      .info-tag { fill: #9ece6a; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; }
+      .info-text { fill: #a9b1d6; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; }
+      .highlight { fill: #e0af68; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; font-weight: bold; }
+      .success { fill: #9ece6a; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; }
+      .skill-label { fill: #cdd6f4; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 11.5px; }
+      .pct { fill: #a9b1d6; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 11px; }
+      .quote { fill: #bb9af7; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 11.5px; font-style: italic; }
+      .cursor { fill: #7aa2f7; }
+    </style>
+    <!-- Bar gradients -->
+    <linearGradient id="bar1" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#9ece6a"/>
+      <stop offset="100%" stop-color="#41a6b5"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#bb9af7"/>
+    </linearGradient>
+    <linearGradient id="bar3" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#e0af68"/>
+      <stop offset="100%" stop-color="#ff9e64"/>
+    </linearGradient>
+    <linearGradient id="bar4" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#f7768e"/>
+      <stop offset="100%" stop-color="#ff9e64"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="680" height="380" rx="12" fill="#1a1b27"/>
+
+  <!-- Title bar -->
+  <rect width="680" height="36" rx="12" fill="#2a2b3d"/>
+  <rect y="24" width="680" height="12" fill="#2a2b3d"/>
+
+  <!-- Window dots -->
+  <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="40" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="18" r="6" fill="#28c840"/>
+
+  <!-- Title -->
+  <text x="340" y="23" text-anchor="middle" class="title-text">java@Saurabh-engine: ~</text>
+
+  <!-- Line 1: command -->
+  <text x="18" y="62" class="prompt">saurabh</text>
+  <text x="78" y="62" fill="#565f89" font-family="monospace" font-size="12.5">@</text>
+  <text x="87" y="62" class="prompt">dev</text>
+  <text x="113" y="62" fill="#565f89" font-family="monospace" font-size="12.5">:~/desktop$</text>
+  <text x="200" y="62" class="cmd">javac Saurabh.java &amp;&amp; java Saurabh</text>
+
+  <!-- Line 2 -->
+  <text x="18" y="83" class="info-tag">[INFO]</text>
+  <text x="66" y="83" class="info-text">Compiling developer mindset...  </text>
+  <text x="329" y="83" class="success">Success ✓</text>
+
+  <!-- Line 3 -->
+  <text x="18" y="100" class="info-tag">[INFO]</text>
+  <text x="66" y="100" class="info-text">JVM Started: </text>
+  <text x="158" y="100" class="highlight">Saurabh Kalamkar (Final Year)</text>
+
+  <!-- Line 4 -->
+  <text x="18" y="117" class="info-tag">[INFO]</text>
+  <text x="66" y="117" class="info-text">Systems passing unit tests...  </text>
+  <text x="313" y="117" fill="#9ece6a" font-family="monospace" font-size="12px" font-weight="bold">All tests green ✅</text>
+
+  <!-- Line 5: loadSkills command -->
+  <text x="18" y="140" class="prompt">saurabh</text>
+  <text x="78" y="140" fill="#565f89" font-family="monospace" font-size="12.5">@</text>
+  <text x="87" y="140" class="prompt">dev</text>
+  <text x="113" y="140" fill="#565f89" font-family="monospace" font-size="12.5">:~/desktop$</text>
+  <text x="200" y="140" class="cmd">Saurabh.loadSkills();</text>
+
+  <!-- Skill 1: Android Dev (Java) - 85% -->
+  <text x="18" y="163" class="skill-label">Android Dev (Java)</text>
+  <rect x="178" y="152" width="450" height="11" rx="5" fill="#2a2b3d"/>
+  <rect x="178" y="152" width="382" height="11" rx="5" fill="url(#bar1)"/>
+  <text x="636" y="163" class="pct">85%</text>
+
+  <!-- Skill 2: Full-Stack & Web - 65% -->
+  <text x="18" y="184" class="skill-label">Full-Stack &amp; Web</text>
+  <rect x="178" y="173" width="450" height="11" rx="5" fill="#2a2b3d"/>
+  <rect x="178" y="173" width="292" height="11" rx="5" fill="url(#bar2)"/>
+  <text x="636" y="184" class="pct">65%</text>
+
+  <!-- Skill 3: Firebase & MySQL - 70% -->
+  <text x="18" y="205" class="skill-label">Firebase &amp; MySQL</text>
+  <rect x="178" y="194" width="450" height="11" rx="5" fill="#2a2b3d"/>
+  <rect x="178" y="194" width="315" height="11" rx="5" fill="url(#bar3)"/>
+  <text x="636" y="205" class="pct">70%</text>
+
+  <!-- Skill 4: UI/UX & Figma - 50% -->
+  <text x="18" y="226" class="skill-label">UI/UX &amp; Figma</text>
+  <rect x="178" y="215" width="450" height="11" rx="5" fill="#2a2b3d"/>
+  <rect x="178" y="215" width="225" height="11" rx="5" fill="url(#bar4)"/>
+  <text x="636" y="226" class="pct">50%</text>
+
+  <!-- Line: getQuote command -->
+  <text x="18" y="252" class="prompt">saurabh</text>
+  <text x="78" y="252" fill="#565f89" font-family="monospace" font-size="12.5">@</text>
+  <text x="87" y="252" class="prompt">dev</text>
+  <text x="113" y="252" fill="#565f89" font-family="monospace" font-size="12.5">:~/desktop$</text>
+  <text x="200" y="252" class="cmd">System.out.println(Saurabh.getQuote());</text>
+
+  <!-- Quote -->
+  <text x="18" y="272" class="quote">"First, solve the problem. Then, write the code."</text>
+
+  <!-- Cursor line -->
+  <text x="18" y="293" class="prompt">saurabh</text>
+  <text x="78" y="293" fill="#565f89" font-family="monospace" font-size="12.5">@</text>
+  <text x="87" y="293" class="prompt">dev</text>
+  <text x="113" y="293" fill="#565f89" font-family="monospace" font-size="12.5">:~/desktop$</text>
+  <rect x="200" y="280" width="9" height="15" rx="1" fill="#7aa2f7" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom border glow -->
+  <rect x="0" y="374" width="680" height="6" rx="6" fill="url(#bar2)" opacity="0.4"/>
+</svg>
