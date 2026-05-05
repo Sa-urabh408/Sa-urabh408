@@ -4,8 +4,13 @@
 
 <br/>
 
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saurabhkalamkar_)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sa-urabh408)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhkalamkar07@gmail.com)
+
+</div>
 
 </div>
 
@@ -24,6 +29,47 @@ $ java Saurabh.class --about
 <div align="center">
 
 ![Saurabh Terminal](https://raw.githubusercontent.com/Sa-urabh408/Sa-urabh408/main/terminal.svg)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+```
+$ java ProjectShowcase.class --display
+```
+
+</div>
+
+<br/>
+
+### 🚀 Project Showcase
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="500">
+      <h3>🌿 NGO App</h3>
+      <p>A purpose-driven Android application to facilitate charitable donations, connect volunteers, and manage NGO activities efficiently.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <br/><br/>
+      <a href="https://github.com/Sa-urabh408/NGO-APP/raw/main/apk/app-release.apk">
+        <img src="https://img.shields.io/badge/⬇️%20Download%20APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/Sa-urabh408/NGO-APP">
+        <img src="https://img.shields.io/badge/View%20Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -119,15 +165,15 @@ $ System.out.println(Saurabh.getStats());
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sa-urabh408&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sa-urabh408&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sa-urabh408&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sa-urabh408&theme=dark&hide_border=false)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-urabh408&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sa-urabh408&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -154,24 +200,6 @@ $ java Spotify.class --vibe
 <div align="center">
 
 ```
-$ java Trophies.class --display
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Sa-urabh408&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-<div align="center">
-
-```
 $ Saurabh.connect();
 ```
 
@@ -183,6 +211,7 @@ $ Saurabh.connect();
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saurabhkalamkar_)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sa-urabh408)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhkalamkar07@gmail.com)
 
 <br/>
 
