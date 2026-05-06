@@ -60,16 +60,19 @@ $ java ProjectShowcase.class --display
       <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
       <br/><br/>
-      <a href="https://github.com/Sa-urabh408/NGO-APP/releases/latest/download/app-release.apk">
+      <a href="https://github.com/Sa-urabh408/NGO-APP/releases/latest/download/NGOApp.apk">
         <img src="https://img.shields.io/badge/⬇️%20Download%20APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
       </a>
       &nbsp;
-      href="https://github.com/Sa-urabh408/NGO-APP/releases/latest/download/NGOApp.apk"
+      <a href="https://github.com/Sa-urabh408/NGO-APP">
         <img src="https://img.shields.io/badge/View%20Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
     </td>
   </tr>
 </table>
+
+</div>
+
 <br/>
 
 ---
