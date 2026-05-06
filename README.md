@@ -64,7 +64,7 @@ $ java ProjectShowcase.class --display
         <img src="https://img.shields.io/badge/⬇️%20Download%20APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
       </a>
       &nbsp;
-      <a href="https://github.com/Sa-urabh408/NGO-APP">
+      <a href="[https://github.com/Sa-urabh408/NGO-APP](https://github.com/Sa-urabh408/NGO-APP/releases/latest/download/app-release.apk)">
         <img src="https://img.shields.io/badge/View%20Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
     </td>
