@@ -73,7 +73,7 @@ $ java ProjectShowcase.class --display
       <p>Track income & expenses, manage group splits, subscriptions & get monthly reports by category.</p>
       <br/>
       <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <br/><br/>
       <a href="https://github.com/Sa-urabh408/SmartExpenseTracker/releases/latest/download/SmartExpenseTracker.apk">
@@ -89,7 +89,7 @@ $ java ProjectShowcase.class --display
       <p>School communication app connecting Students, Teachers & Parents with chat, homework & calendar.</p>
       <br/>
       <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <br/><br/>
       <a href="https://github.com/Sa-urabh408/SmartConnect/releases/latest/download/SmartConnect.apk">
