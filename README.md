@@ -52,19 +52,51 @@ $ java ProjectShowcase.class --display
 
 <table>
   <tr>
-    <td align="center" width="500">
+    <td align="center" width="300">
       <h3>🌿 NGO App</h3>
-      <p>A purpose-driven Android application to facilitate charitable donations, connect volunteers, and manage NGO activities efficiently.</p>
+      <p>Android app to facilitate charitable donations, connect volunteers & manage NGO activities.</p>
       <br/>
-      <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <br/><br/>
       <a href="https://github.com/Sa-urabh408/NGO-APP/releases/latest/download/NGOApp.apk">
-        <img src="https://img.shields.io/badge/⬇️%20Download%20APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+        <img src="https://img.shields.io/badge/⬇️ Download APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
       </a>
-      &nbsp;
+      <br/>
       <a href="https://github.com/Sa-urabh408/NGO-APP">
+        <img src="https://img.shields.io/badge/View%20Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <h3>💰 Smart Expense Tracker</h3>
+      <p>Track income & expenses, manage group splits, subscriptions & get monthly reports by category.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <br/><br/>
+      <a href="https://github.com/Sa-urabh408/SmartExpenseTracker/releases/latest/download/SmartExpenseTracker.apk">
+        <img src="https://img.shields.io/badge/⬇️ Download APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Sa-urabh408/SmartExpenseTracker">
+        <img src="https://img.shields.io/badge/View%20Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <h3>🔗 SmartConnect</h3>
+      <p>School communication app connecting Students, Teachers & Parents with chat, homework & calendar.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <br/><br/>
+      <a href="https://github.com/Sa-urabh408/SmartConnect/releases/latest/download/SmartConnect.apk">
+        <img src="https://img.shields.io/badge/⬇️ Download APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Sa-urabh408/SmartConnect">
         <img src="https://img.shields.io/badge/View%20Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
     </td>
