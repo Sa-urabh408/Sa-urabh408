@@ -52,53 +52,65 @@ $ java ProjectShowcase.class --display
 
 <table>
   <tr>
-    <td align="center" width="300">
+    <td align="center" valign="top" width="300">
+      <br/>
       <h3>🌿 NGO App</h3>
-      <p>Android app to facilitate charitable donations, connect volunteers & manage NGO activities.</p>
+      <p>Android app to facilitate charitable donations,<br/>connect volunteers & manage NGO activities.</p>
       <br/>
       <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <br/><br/>
       <a href="https://github.com/Sa-urabh408/NGO-APP/releases/latest/download/NGOApp.apk">
-        <img src="https://img.shields.io/badge/⬇️ Download APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+        <img src="https://img.shields.io/badge/⬇️%20Download%20APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
       </a>
       <br/><br/>
       <a href="https://github.com/Sa-urabh408/NGO-APP">
         <img src="https://img.shields.io/badge/View%20Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
+      <br/>
     </td>
-    <td align="center" width="300">
+    <td align="center" valign="top" width="300">
+      <br/>
       <h3>💰 Smart Expense Tracker</h3>
-      <p>Track income & expenses, manage group splits, subscriptions & get monthly reports by category.</p>
+      <p>Track income & expenses, manage group splits,<br/>subscriptions & get monthly reports by category.</p>
       <br/>
       <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <br/><br/>
       <a href="https://github.com/Sa-urabh408/Smart-Expense-Tracker-APP/releases/latest/download/SmartExpenseTracker.apk">
-        <img src="https://img.shields.io/badge/⬇️ Download APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+        <img src="https://img.shields.io/badge/⬇️%20Download%20APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
       </a>
       <br/><br/>
       <a href="https://github.com/Sa-urabh408/Smart-Expense-Tracker-APP">
         <img src="https://img.shields.io/badge/View%20Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
+      <br/>
     </td>
-    <td align="center" width="300">
+    <td align="center" valign="top" width="300">
+      <br/>
       <h3>🔗 SmartConnect</h3>
-      <p>School communication app connecting Students, Teachers & Parents with chat, homework & calendar.</p>
+      <p>School communication app connecting Students,<br/>Teachers & Parents with chat, homework & calendar.</p>
       <br/>
       <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <br/><br/>
       <a href="https://github.com/Sa-urabh408/SmartConnect/releases/latest/download/SmartConnect.apk">
-        <img src="https://img.shields.io/badge/⬇️ Download APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+        <img src="https://img.shields.io/badge/⬇️%20Download%20APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
       </a>
       <br/><br/>
       <a href="https://github.com/Sa-urabh408/SmartConnect">
         <img src="https://img.shields.io/badge/View%20Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
+      <br/>
     </td>
   </tr>
 </table>
