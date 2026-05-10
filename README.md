@@ -63,7 +63,7 @@ $ java ProjectShowcase.class --display
       <a href="https://github.com/Sa-urabh408/NGO-APP/releases/latest/download/NGOApp.apk">
         <img src="https://img.shields.io/badge/⬇️ Download APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
       </a>
-      <br/>
+      <br/><br/>
       <a href="https://github.com/Sa-urabh408/NGO-APP">
         <img src="https://img.shields.io/badge/View%20Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
@@ -76,11 +76,11 @@ $ java ProjectShowcase.class --display
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <br/><br/>
-      <a href="https://github.com/Sa-urabh408/SmartExpenseTracker/releases/latest/download/SmartExpenseTracker.apk">
+      <a href="https://github.com/Sa-urabh408/Smart-Expense-Tracker-APP/releases/latest/download/SmartExpenseTracker.apk">
         <img src="https://img.shields.io/badge/⬇️ Download APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
       </a>
-      <br/>
-      <a href="https://github.com/Sa-urabh408/SmartExpenseTracker">
+      <br/><br/>
+      <a href="https://github.com/Sa-urabh408/Smart-Expense-Tracker-APP">
         <img src="https://img.shields.io/badge/View%20Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
     </td>
@@ -95,7 +95,7 @@ $ java ProjectShowcase.class --display
       <a href="https://github.com/Sa-urabh408/SmartConnect/releases/latest/download/SmartConnect.apk">
         <img src="https://img.shields.io/badge/⬇️ Download APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
       </a>
-      <br/>
+      <br/><br/>
       <a href="https://github.com/Sa-urabh408/SmartConnect">
         <img src="https://img.shields.io/badge/View%20Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
